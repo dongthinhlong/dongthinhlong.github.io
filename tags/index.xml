@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Đặng Đông's Blog</title><link>https://dongthinhlong.github.io/tags/</link><description>Recent content in Tags on Đặng Đông's Blog</description><generator>Hugo -- gohugo.io</generator><language>vi-vn</language><lastBuildDate>Thu, 05 Jun 2025 16:00:00 +0700</lastBuildDate><atom:link href="https://dongthinhlong.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>chao-moi-nguoi</title><link>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</link><pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate><guid>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</guid><description/></item><item><title>hugo</title><link>https://dongthinhlong.github.io/tags/hugo/</link><pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate><guid>https://dongthinhlong.github.io/tags/hugo/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Đặng Đông&#39;s Blog</title>
+    <link>https://dongthinhlong.github.io/tags/</link>
+    <description>Recent content in Tags on Đặng Đông&#39;s Blog</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 06 Jun 2025 07:42:50 +0700</lastBuildDate>
+    <atom:link href="https://dongthinhlong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cau-Nguyen</title>
+      <link>https://dongthinhlong.github.io/tags/cau-nguyen/</link>
+      <pubDate>Fri, 06 Jun 2025 07:42:50 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/tags/cau-nguyen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sach</title>
+      <link>https://dongthinhlong.github.io/tags/sach/</link>
+      <pubDate>Fri, 06 Jun 2025 07:42:50 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/tags/sach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chao-Moi-Nguoi</title>
+      <link>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</link>
+      <pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://dongthinhlong.github.io/tags/hugo/</link>
+      <pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

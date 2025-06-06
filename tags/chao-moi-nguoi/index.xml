@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>chao-moi-nguoi on Đặng Đông's Blog</title><link>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</link><description>Recent content in chao-moi-nguoi on Đặng Đông's Blog</description><generator>Hugo -- gohugo.io</generator><language>vi-vn</language><lastBuildDate>Thu, 05 Jun 2025 16:00:00 +0700</lastBuildDate><atom:link href="https://dongthinhlong.github.io/tags/chao-moi-nguoi/index.xml" rel="self" type="application/rss+xml"/><item><title>Bài Viết Đầu Tiên Của Tôi</title><link>https://dongthinhlong.github.io/posts/bai-viet-dau-tien/</link><pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate><guid>https://dongthinhlong.github.io/posts/bai-viet-dau-tien/</guid><description>Chào mừng đến với blog mới của tôi!
-Đây là bài viết đầu tiên được tạo bằng Hugo và theme Dario.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chao-Moi-Nguoi on Đặng Đông&#39;s Blog</title>
+    <link>https://dongthinhlong.github.io/tags/chao-moi-nguoi/</link>
+    <description>Recent content in Chao-Moi-Nguoi on Đặng Đông&#39;s Blog</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 05 Jun 2025 16:00:00 +0700</lastBuildDate>
+    <atom:link href="https://dongthinhlong.github.io/tags/chao-moi-nguoi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài Viết Đầu Tiên Của Tôi</title>
+      <link>https://dongthinhlong.github.io/posts/bai-viet-dau-tien/</link>
+      <pubDate>Thu, 05 Jun 2025 16:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/bai-viet-dau-tien/</guid>
+      <description>&lt;p&gt;Chào mừng đến với blog mới của tôi!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
