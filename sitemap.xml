@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dongthinhlong.github.io/posts/1-chua-oi-con-nghien/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dongthinhlong.github.io/posts/2-chua-oi-con-so/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -40,6 +37,9 @@
   </url><url>
     <loc>https://dongthinhlong.github.io/posts/chua-oi-con-co-nhung-van-de/</loc>
     <lastmod>2025-06-06T07:42:50+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/posts/1-chua-oi-con-nghien/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dongthinhlong.github.io/archives/</loc>
   </url><url>
