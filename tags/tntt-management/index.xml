@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0700</lastBuildDate>
     <atom:link href="https://dongthinhlong.github.io/tags/tntt-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bài 1: TNTT Management - Hệ Thống Quản Lý Học Viên &#39;Không Cần Cài Đặt&#39;</title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</guid>
+      <description>Một giải pháp quản lý lớp học thông minh, miễn phí 100%, hoạt động trên mọi thiết bị - chỉ cần trình duyệt và kết nối Internet.</description>
+    </item>
+    <item>
       <title>Bài 2: Hướng Dẫn Cài Đặt Backend TNTT Management - Google Apps Script &amp; Google Sheets</title>
       <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
@@ -28,13 +35,6 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
       <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</guid>
       <description>Hướng dẫn toàn diện cách sử dụng từng tính năng trong hệ thống - Dành cho giáo lý viên, huynh trưởng và admin</description>
-    </item>
-    <item>
-      <title>TNTT Management: Hệ Thống Quản Lý Học Viên &#39;Không Cần Cài Đặt&#39; - Đơn Giản Đến Bất Ngờ</title>
-      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</guid>
-      <description>Một giải pháp quản lý lớp học thông minh, miễn phí 100%, hoạt động trên mọi thiết bị - chỉ cần trình duyệt và kết nối Internet.</description>
     </item>
   </channel>
 </rss>
