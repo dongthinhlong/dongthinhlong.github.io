@@ -2,23 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dongthinhlong.github.io/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/backend/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
     <loc>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</loc>
-  </url><url>
-    <loc>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://dongthinhlong.github.io/</loc>
+    <loc>https://dongthinhlong.github.io/tags/best-practices/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/deployment/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/google-apps-script/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/google-sheets/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/netlify/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/posts/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/qu%E1%BA%A3n-l%C3%BD-h%E1%BB%8Dc-vi%C3%AAn/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/react/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/tntt-management/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/tutorial/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/vercel/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://dongthinhlong.github.io/tags/web-development/</loc>
+    <lastmod>2026-07-02T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://dongthinhlong.github.io/archives/</loc>
   </url><url>
     <loc>https://dongthinhlong.github.io/categories/</loc>
-  </url><url>
-    <loc>https://dongthinhlong.github.io/posts/</loc>
-  </url><url>
-    <loc>https://dongthinhlong.github.io/tags/</loc>
   </url><url>
     <loc>https://dongthinhlong.github.io/search/</loc>
   </url>

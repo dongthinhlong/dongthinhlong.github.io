@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>@dongthinhlong</title>
-    <link>https://dongthinhlong.github.io/</link>
-    <description>Recent content on @dongthinhlong</description>
+    <title>Quản Lý Học Viên on @dongthinhlong</title>
+    <link>https://dongthinhlong.github.io/tags/qu%E1%BA%A3n-l%C3%BD-h%E1%BB%8Dc-vi%C3%AAn/</link>
+    <description>Recent content in Quản Lý Học Viên on @dongthinhlong</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0700</lastBuildDate>
-    <atom:link href="https://dongthinhlong.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bài 2: Hướng Dẫn Cài Đặt Backend TNTT Management - Google Apps Script &amp; Google Sheets</title>
-      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</guid>
-      <description>Hướng dẫn chi tiết từng bước để thiết lập backend miễn phí 100% - Không cần server, không cần chi phí, chỉ cần tài khoản Google!</description>
-    </item>
-    <item>
-      <title>Bài 3: Hướng Dẫn Deploy Frontend TNTT Management - Vercel, Netlify &amp; GitHub Pages</title>
-      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</guid>
-      <description>Hướng dẫn deploy webapp React lên các nền tảng miễn phí - Không cần server, không cần chi phí, chỉ cần 5 phút!</description>
-    </item>
+    <atom:link href="https://dongthinhlong.github.io/tags/qu%E1%BA%A3n-l%C3%BD-h%E1%BB%8Dc-vi%C3%AAn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bài 4: Hướng Dẫn Sử Dụng Chi Tiết TNTT Management - Từ A/Z Các Tính Năng</title>
       <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</link>

@@ -6,54 +6,35 @@
     <description>Recent content in Posts on @dongthinhlong</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>vi</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0700</lastBuildDate>
     <atom:link href="https://dongthinhlong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Bài 2: Hướng Dẫn Cài Đặt Backend TNTT Management - Google Apps Script &amp; Google Sheets</title>
       <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
       <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</guid>
-      <description>&lt;h1 id=&#34;bài-2-hướng-dẫn-cài-đặt-backend-tntt-management---google-apps-script--google-sheets&#34;&gt;Bài 2: Hướng Dẫn Cài Đặt Backend TNTT Management - Google Apps Script &amp;amp; Google Sheets&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Hướng dẫn chi tiết từng bước để thiết lập backend miễn phí 100% - Không cần server, không cần chi phí, chỉ cần tài khoản Google!&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Trong &lt;strong&gt;Bài 1&lt;/strong&gt;, chúng ta đã tìm hiểu về TNTT Management - hệ thống quản lý học viên &amp;ldquo;không cần cài đặt&amp;rdquo;. Bây giờ, đến phần &lt;strong&gt;thực hành&lt;/strong&gt;: thiết lập backend của hệ thống.&lt;/p&gt;</description>
+      <description>Hướng dẫn chi tiết từng bước để thiết lập backend miễn phí 100% - Không cần server, không cần chi phí, chỉ cần tài khoản Google!</description>
     </item>
     <item>
-      <title></title>
+      <title>Bài 3: Hướng Dẫn Deploy Frontend TNTT Management - Vercel, Netlify &amp; GitHub Pages</title>
       <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
       <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</guid>
-      <description>&lt;h1 id=&#34;bài-3-hướng-dẫn-deploy-frontend-tntt-management---vercel-netlify--github-pages&#34;&gt;Bài 3: Hướng Dẫn Deploy Frontend TNTT Management - Vercel, Netlify &amp;amp; GitHub Pages&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Hướng dẫn deploy webapp React lên các nền tảng miễn phí - Không cần server, không cần chi phí, chỉ cần 5 phút!&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Trong &lt;strong&gt;Bài 2&lt;/strong&gt;, chúng ta đã thiết lập backend (Google Apps Script + Google Sheets). Bây giờ, đến phần &lt;strong&gt;frontend&lt;/strong&gt;: build và deploy webapp React lên internet để ai cũng có thể truy cập.&lt;/p&gt;</description>
+      <description>Hướng dẫn deploy webapp React lên các nền tảng miễn phí - Không cần server, không cần chi phí, chỉ cần 5 phút!</description>
     </item>
     <item>
-      <title></title>
-      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</guid>
-      <description>&lt;h1 id=&#34;tntt-management-hệ-thống-quản-lý-học-viên-không-cần-cài-đặt---đơn-giản-đến-bất-ngờ&#34;&gt;TNTT Management: Hệ Thống Quản Lý Học Viên &amp;ldquo;Không Cần Cài Đặt&amp;rdquo; - Đơn Giản Đến Bất Ngờ&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Một giải pháp quản lý lớp học thông minh, miễn phí 100%, hoạt động trên mọi thiết bị - chỉ cần trình duyệt và kết nối Internet.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-vấn-đề-mà-giáo-lý-viên-thường-gặp&#34;&gt;🎯 Vấn đề mà giáo lý viên thường gặp&lt;/h2&gt;
-&lt;p&gt;Bạn là giáo viên giáo lý, huynh trưởng đoàn thể, hoặc người phụ trách lớp học? Bạn đang gặp những khó khăn sau:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
+      <title>Bài 4: Hướng Dẫn Sử Dụng Chi Tiết TNTT Management - Từ A/Z Các Tính Năng</title>
       <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
       <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</guid>
-      <description>&lt;h1 id=&#34;bài-4-hướng-dẫn-sử-dụng-chi-tiết-tntt-management---từ-az-các-tính-năng&#34;&gt;Bài 4: Hướng Dẫn Sử Dụng Chi Tiết TNTT Management - Từ A/Z Các Tính Năng&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Hướng dẫn toàn diện cách sử dụng từng tính năng trong hệ thống - Dành cho giáo viên, huynh trưởng và admin&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Chào mừng đến với &lt;strong&gt;Bài 4&lt;/strong&gt; - bài cuối cùng trong series 4 bài về TNTT Management. Trong bài này, chúng ta sẽ đi sâu vào &lt;strong&gt;thực hành&lt;/strong&gt;: cách sử dụng từng tính năng, từ đơn giản đến nâng cao.&lt;/p&gt;</description>
+      <description>Hướng dẫn toàn diện cách sử dụng từng tính năng trong hệ thống - Dành cho giáo viên, huynh trưởng và admin</description>
+    </item>
+    <item>
+      <title>TNTT Management: Hệ Thống Quản Lý Học Viên &#39;Không Cần Cài Đặt&#39; - Đơn Giản Đến Bất Ngờ</title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</guid>
+      <description>Một giải pháp quản lý lớp học thông minh, miễn phí 100%, hoạt động trên mọi thiết bị - chỉ cần trình duyệt và kết nối Internet.</description>
     </item>
   </channel>
 </rss>

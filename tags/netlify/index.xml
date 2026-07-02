@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Netlify on @dongthinhlong</title>
+    <link>https://dongthinhlong.github.io/tags/netlify/</link>
+    <description>Recent content in Netlify on @dongthinhlong</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0700</lastBuildDate>
+    <atom:link href="https://dongthinhlong.github.io/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 3: Hướng Dẫn Deploy Frontend TNTT Management - Vercel, Netlify &amp; GitHub Pages</title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0700</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</guid>
+      <description>Hướng dẫn deploy webapp React lên các nền tảng miễn phí - Không cần server, không cần chi phí, chỉ cần 5 phút!</description>
+    </item>
+  </channel>
+</rss>
