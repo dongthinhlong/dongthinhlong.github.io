@@ -6,23 +6,54 @@
     <description>Recent content in Posts on @dongthinhlong</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dongthinhlong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Viết cho tuổi 25</title>
-      <link>https://dongthinhlong.github.io/posts/vi%E1%BA%BFt-cho-tu%E1%BB%95i-25/</link>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/vi%E1%BA%BFt-cho-tu%E1%BB%95i-25/</guid>
-      <description>&lt;p&gt;Vậy là tôi vừa khép lại một năm sống trong tuổi 25, một con số nghe vừa vặn, đủ để gọi là người lớn, nhưng vẫn còn nguyên những lúng túng của tuổi trẻ. Nói cách khác, hôm nay tôi tròn 25 tuổi. Tôi muốn ghi lại vài dòng, như một cách nhìn lại quãng đường đã qua, để lắng nghe chính mình giữa những ngày tưởng chừng yên ả mà nhiều sóng ngầm trong tâm trí.&lt;/p&gt;</description>
+      <title></title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-backend/</guid>
+      <description>&lt;h1 id=&#34;bài-2-hướng-dẫn-cài-đặt-backend-tntt-management---google-apps-script--google-sheets&#34;&gt;Bài 2: Hướng Dẫn Cài Đặt Backend TNTT Management - Google Apps Script &amp;amp; Google Sheets&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Hướng dẫn chi tiết từng bước để thiết lập backend miễn phí 100% - Không cần server, không cần chi phí, chỉ cần tài khoản Google!&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Trong &lt;strong&gt;Bài 1&lt;/strong&gt;, chúng ta đã tìm hiểu về TNTT Management - hệ thống quản lý học viên &amp;ldquo;không cần cài đặt&amp;rdquo;. Bây giờ, đến phần &lt;strong&gt;thực hành&lt;/strong&gt;: thiết lập backend của hệ thống.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Viết cho tên nhóc tuổi 15</title>
-      <link>https://dongthinhlong.github.io/posts/vi%E1%BA%BFt-cho-t%C3%AAn-nh%C3%B3c-tu%E1%BB%95i-15/</link>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://dongthinhlong.github.io/posts/vi%E1%BA%BFt-cho-t%C3%AAn-nh%C3%B3c-tu%E1%BB%95i-15/</guid>
-      <description>&lt;p&gt;Xin chào tên nhóc cứng đầu tuổi 15!&lt;/p&gt;
-&lt;p&gt;Khi viết những dòng này thì anh 25 tuổi rồi nhóc ạ. Nhìn cô em gái út 15 tuổi của mình, anh chợt nhớ về những tháng năm tuổi học trò, và nhớ về nhóc.&lt;/p&gt;
-&lt;p&gt;Anh nhớ rằng đó là khoảng thời gian có nhiều quyết định trọng đại nhất trong đời của nhóc. Đứng trước những lựa chọn hệ trọng nhất đời, lại là một tên nhóc 15 tuổi non nớt, thiếu kinh nghiệm. Nhóc chẳng hiểu rõ &amp;ldquo;Đời tu&amp;rdquo; là gì, chỉ biết rằng khi nhìn vào những con người đang dấn thân phục vụ, nhóc lại thấy dễ thương, dễ mến và dễ gần. Thế là, với một trái tim rực lửa, nhóc bắt đầu tìm hiểu cái gọi là &amp;ldquo;Đời tu&amp;rdquo;.&lt;/p&gt;</description>
+      <title></title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-frontend/</guid>
+      <description>&lt;h1 id=&#34;bài-3-hướng-dẫn-deploy-frontend-tntt-management---vercel-netlify--github-pages&#34;&gt;Bài 3: Hướng Dẫn Deploy Frontend TNTT Management - Vercel, Netlify &amp;amp; GitHub Pages&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Hướng dẫn deploy webapp React lên các nền tảng miễn phí - Không cần server, không cần chi phí, chỉ cần 5 phút!&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Trong &lt;strong&gt;Bài 2&lt;/strong&gt;, chúng ta đã thiết lập backend (Google Apps Script + Google Sheets). Bây giờ, đến phần &lt;strong&gt;frontend&lt;/strong&gt;: build và deploy webapp React lên internet để ai cũng có thể truy cập.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-gioi-thieu/</guid>
+      <description>&lt;h1 id=&#34;tntt-management-hệ-thống-quản-lý-học-viên-không-cần-cài-đặt---đơn-giản-đến-bất-ngờ&#34;&gt;TNTT Management: Hệ Thống Quản Lý Học Viên &amp;ldquo;Không Cần Cài Đặt&amp;rdquo; - Đơn Giản Đến Bất Ngờ&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Một giải pháp quản lý lớp học thông minh, miễn phí 100%, hoạt động trên mọi thiết bị - chỉ cần trình duyệt và kết nối Internet.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-vấn-đề-mà-giáo-lý-viên-thường-gặp&#34;&gt;🎯 Vấn đề mà giáo lý viên thường gặp&lt;/h2&gt;
+&lt;p&gt;Bạn là giáo viên giáo lý, huynh trưởng đoàn thể, hoặc người phụ trách lớp học? Bạn đang gặp những khó khăn sau:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dongthinhlong.github.io/posts/2026-07-02-tntt-management-su-dung/</guid>
+      <description>&lt;h1 id=&#34;bài-4-hướng-dẫn-sử-dụng-chi-tiết-tntt-management---từ-az-các-tính-năng&#34;&gt;Bài 4: Hướng Dẫn Sử Dụng Chi Tiết TNTT Management - Từ A/Z Các Tính Năng&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Hướng dẫn toàn diện cách sử dụng từng tính năng trong hệ thống - Dành cho giáo viên, huynh trưởng và admin&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-giới-thiệu&#34;&gt;📋 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Chào mừng đến với &lt;strong&gt;Bài 4&lt;/strong&gt; - bài cuối cùng trong series 4 bài về TNTT Management. Trong bài này, chúng ta sẽ đi sâu vào &lt;strong&gt;thực hành&lt;/strong&gt;: cách sử dụng từng tính năng, từ đơn giản đến nâng cao.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
